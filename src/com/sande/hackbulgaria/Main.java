@@ -1,9 +1,15 @@
 package com.sande.hackbulgaria;
 
+import com.sande.hackbulgaria.week1.Day1Solution11;
+
 public class Main {
-	
+
 	public static void main(String[] args) {
-		 System.out.println("5");
+		var asd = new Day1Solution11();
+//		int[] vector1 = { 1, 2, 3 };
+//		int[] vector2 = { 3, 2, 1 };
+		System.out.println(asd.pow(-3, 4));
+
 	}
 
 }
